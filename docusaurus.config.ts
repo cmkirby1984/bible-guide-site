@@ -68,22 +68,19 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'oldTestamentSidebar',
-          position: 'left',
+          to: '/old-testament',
           label: 'Old Testament',
+          position: 'left',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'newTestamentSidebar',
-          position: 'left',
+          to: '/new-testament',
           label: 'New Testament',
+          position: 'left',
         },
         {
-          type: 'docSidebar',
-          sidebarId: 'resourcesSidebar',
-          position: 'left',
+          to: '/resources',
           label: 'Resources',
+          position: 'left',
         },
         {
           href: 'https://github.com/cmkirby1984/bibleinfocollection',
