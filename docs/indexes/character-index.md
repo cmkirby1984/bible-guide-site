@@ -849,7 +849,7 @@ A comprehensive guide to major biblical figures, their stories, and the lessons 
 
 3. **Personal Application:** Ask: "Which character's struggles resemble mine?" and "What can I learn from their response to God?"
 
-4. **Chronological Reading:** Follow characters in biblical timeline order (see [Timeline](../timeline.md)).
+4. **Chronological Reading:** Follow characters in biblical timeline order.
 
 5. **Comparative Studies:** Compare and contrast related characters (e.g., Saul vs. David, Peter vs. John, Martha vs. Mary).
 
@@ -867,11 +867,10 @@ For any character you study, consider:
 
 ## Navigation
 
-- [Back to Main Index](../README.md)
+- [Back to Main Index](/)
 - [Thematic Index](./thematic-index.md)
 - [Old Testament Overview](../quick-reference/old-testament-overview.md)
 - [New Testament Overview](../quick-reference/new-testament-overview.md)
-- [Biblical Timeline](../timeline.md)
 
 ---
 

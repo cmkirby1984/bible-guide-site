@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build:*)",
+      "Bash(set GIT_USER=cmkirby1984)",
+      "Bash(npm run deploy:*)",
+      "Bash($env:USE_SSH=\"true\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

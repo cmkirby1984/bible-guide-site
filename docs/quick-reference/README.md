@@ -39,4 +39,4 @@ These tables are designed to fit on standard letter-size paper:
 
 ---
 
-[← Back to Main Bible Study Guide](../README.md)
+[← Back to Main Bible Study Guide](/)

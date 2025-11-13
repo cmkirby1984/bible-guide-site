@@ -311,4 +311,4 @@ Many biblical place names have theological significance:
 
 ---
 
-[← Back to Main Guide](../README.md) | [Timeline](../timeline.md) | [Character Index](../indexes/character-index.md)
+[← Back to Main Guide](/) | [Character Index](../indexes/character-index.md)

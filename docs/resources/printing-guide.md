@@ -440,4 +440,4 @@ If you prefer digital but want print-like benefits:
 
 ---
 
-[← Back to Main Guide](../README.md) | [Quick Reference](../quick-reference/README.md)
+[← Back to Main Guide](/) | [Quick Reference](../quick-reference/)

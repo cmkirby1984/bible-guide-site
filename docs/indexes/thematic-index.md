@@ -738,4 +738,4 @@ A comprehensive topical index showing where major themes appear throughout the B
 
 ---
 
-[← Back to Main Guide](../README.md) | [Character Index →](character-index.md)
+[← Back to Main Guide](/) | [Character Index →](character-index.md)
