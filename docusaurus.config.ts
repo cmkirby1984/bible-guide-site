@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://cmkirby1984.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/bibleinfocollection/',
+  baseUrl: '/bible-guide-site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'cmkirby1984', // Usually your GitHub org/user name.
-  projectName: 'bibleinfocollection', // Usually your repo name.
+  projectName: 'bible-guide-site', // Usually your repo name.
 
   onBrokenLinks: 'warn',
 
@@ -43,7 +43,7 @@ const config: Config = {
           routeBasePath: '/', // Serve docs at the root
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/cmkirby1984/bibleinfocollection/tree/main/',
+            'https://github.com/cmkirby1984/bible-guide-site/tree/main/',
         },
         blog: false, // Disable blog
         theme: {
