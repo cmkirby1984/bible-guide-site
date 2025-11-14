@@ -19,7 +19,15 @@ export default function Root({children}) {
   return (
     <>
       {children}
-      <div id="deployment-2e68e8f4-94c3-481a-acba-5e5e706edef7"></div>
+      <div
+        id="deployment-2e68e8f4-94c3-481a-acba-5e5e706edef7"
+        style={{
+          position: 'fixed',
+          bottom: '20px',
+          right: '20px',
+          zIndex: 9999,
+        }}
+      ></div>
     </>
   );
 }
