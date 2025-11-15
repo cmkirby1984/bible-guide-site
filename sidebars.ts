@@ -8,8 +8,23 @@ const sidebars: SidebarsConfig = {
       label: '🏠 Home',
     },
     {
-      type: 'category',
+      type: 'link',
       label: '📖 Old Testament',
+      href: '/old-testament',
+    },
+    {
+      type: 'link',
+      label: '📜 New Testament',
+      href: '/new-testament',
+    },
+    {
+      type: 'link',
+      label: '📚 Resources',
+      href: '/resources',
+    },
+    {
+      type: 'category',
+      label: '📖 Old Testament Books',
       collapsed: false,
       link: {
         type: 'generated-index',
@@ -68,8 +83,23 @@ const sidebars: SidebarsConfig = {
       label: '🏠 Home',
     },
     {
-      type: 'category',
+      type: 'link',
+      label: '📖 Old Testament',
+      href: '/old-testament',
+    },
+    {
+      type: 'link',
       label: '📜 New Testament',
+      href: '/new-testament',
+    },
+    {
+      type: 'link',
+      label: '📚 Resources',
+      href: '/resources',
+    },
+    {
+      type: 'category',
+      label: '📜 New Testament Books',
       collapsed: false,
       link: {
         type: 'generated-index',
@@ -114,6 +144,21 @@ const sidebars: SidebarsConfig = {
       type: 'doc',
       id: 'intro',
       label: '🏠 Home',
+    },
+    {
+      type: 'link',
+      label: '📖 Old Testament',
+      href: '/old-testament',
+    },
+    {
+      type: 'link',
+      label: '📜 New Testament',
+      href: '/new-testament',
+    },
+    {
+      type: 'link',
+      label: '📚 Resources',
+      href: '/resources',
     },
     {
       type: 'category',
