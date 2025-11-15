@@ -1,8 +1,24 @@
 import React, { useEffect } from 'react';
 
 export default function Root({children}) {
+  // Register service worker for PWA support
   useEffect(() => {
-    // Load the Pickaxe chatbot script
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker
+          .register('/bible-guide-site/sw.js')
+          .then((registration) => {
+            console.log('Service Worker registered successfully:', registration.scope);
+          })
+          .catch((error) => {
+            console.log('Service Worker registration failed:', error);
+          });
+      });
+    }
+  }, []);
+
+  // Load the Pickaxe chatbot script
+  useEffect(() => {
     const script = document.createElement('script');
     script.src = 'https://studio.pickaxe.co/api/embed/bundle.js';
     script.defer = true;
