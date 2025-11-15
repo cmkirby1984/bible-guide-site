@@ -151,6 +151,10 @@ const config: Config = {
               label: 'Resources',
               to: '/resources',
             },
+            {
+              label: 'Copyright & Permissions',
+              to: '/resources/copyright-permissions',
+            },
           ],
         },
         {
@@ -163,7 +167,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Free Bible Study Resource • Built with Docusaurus`,
+      copyright: `Free Bible Study Resource • Scripture quotations from The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. • Built with Docusaurus`,
     },
     prism: {
       theme: prismThemes.github,

@@ -128,6 +128,7 @@ const sidebars: SidebarsConfig = {
       items: [
         'resources/maps',
         'resources/printing-guide',
+        'resources/copyright-permissions',
         'indexes/character-index',
         'indexes/thematic-index',
         'quick-reference/new-testament-overview',

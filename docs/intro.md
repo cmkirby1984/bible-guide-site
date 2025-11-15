@@ -79,3 +79,11 @@ Your existing content structure will work perfectly - just copy the files!
 **This guide provides a foundation for deeper study. Always read the actual biblical text alongside these summaries!**
 
 *All content is freely available as a resource for the body of Christ. May this guide help you know God's Word more deeply.*
+
+---
+
+## 📄 Copyright Notice
+
+Scripture quotations are taken from **The Holy Bible, New International Version® NIV®** Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc. Used with permission. All rights reserved worldwide.
+
+For full copyright and permissions information, see our [Copyright & Permissions](/resources/copyright-permissions) page.
