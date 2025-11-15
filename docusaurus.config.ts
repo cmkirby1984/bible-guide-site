@@ -92,6 +92,37 @@ const config: Config = {
     ],
   ],
 
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        // Enable search highlighting on result pages
+        highlightSearchTermsOnTargetPage: true,
+
+        // Index all docs and pages
+        indexDocs: true,
+        indexPages: true,
+
+        // Do NOT index blog (we don't have one anyway)
+        indexBlog: false,
+
+        // Use English language only
+        language: ['en'],
+
+        // Enable hashed filenames for cache busting
+        hashed: true,
+
+        // Set docsRouteBasePath to match our site structure
+        docsRouteBasePath: '/',
+
+        // Additional useful options
+        searchResultLimits: 8,
+        searchResultContextMaxLength: 50,
+        explicitSearchResultPath: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
